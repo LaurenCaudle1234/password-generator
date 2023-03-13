@@ -1,5 +1,5 @@
 # password-generator
-![ScreenShot](./Assets/Assets/images/password-photo.png)
+![ScreenShot](./Assets/images/password-photo.png)
 
 <a href="https://laurencaudle1234.github.io/html-portfolio/">Project</a>
 
